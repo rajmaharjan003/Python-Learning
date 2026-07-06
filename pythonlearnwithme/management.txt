@@ -1,0 +1,6 @@
+Student Management InfomationFirst Name: Raj
+Last Name: Maharjan
+Address: dhapakhel
+Phone No: 980000000
+Email: raj@gmail.com
+---------------------------
